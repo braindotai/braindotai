@@ -6,7 +6,7 @@
 </h1>
 <br>
 <p align="center">
-<h3 align="center">I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that pases between me running that code and seeing that loss converge 📉. </h3>
+<h3 align="center">I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that passes between me running that code and seeing that loss converge 📉. </h3>
 </p>
 
 <br>
@@ -14,7 +14,7 @@
 - 💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.
 - 👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.
 - 🏆 Won Covid ML Hackathon with 1st rank in my college.
-- 🌐 You can checkout my [website](https://brain-bust.web.app/home).
+- 🌐 You can check out my [website](https://brain-bust.web.app/home).
 - 📺 And don't hesitate to bless the subscribe button [here](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw).
 - 📰 Currently working on my very first research publication.
 
