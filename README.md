@@ -84,15 +84,15 @@
 </tr>
 <tr>
 <td>
-<img align="ceter" height="250" src="https://github.com/braindotai/SkylarkLabs-Lie-Detection/raw/master/output.gif"/>
+<img height="250" src="https://github.com/braindotai/SkylarkLabs-Lie-Detection/raw/master/output.gif"/>
 </td>
 <td>
-<img  align="center" height="250" src="https://github.com/braindotai/SkylarkLabs-Drowning-Detection/raw/master/output.gif"/>
+<img height="250" src="https://github.com/braindotai/SkylarkLabs-Drowning-Detection/raw/master/output.gif"/>
 </td>
 </tr>
 </table>
 
-And many more.... 👉🏻👈🏻🥺
+<h3 align="center">And many more.... 👉🏻👈🏻🥺</h3>
 
 
 ## 📊 # Profile Stats
@@ -100,7 +100,7 @@ And many more.... 👉🏻👈🏻🥺
 
 <div align="center">
 <a href="https://github.com/braindotai">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=braindotai&show_icons=true&count_private=true&theme=dark&line_height=35" alt="Rishik's GitHub stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=braindotai&show_icons=true&count_private=true&theme=dark&line_height=35" alt="Rishik's GitHub stats"/>
 </a>
 <div>
 
@@ -108,10 +108,10 @@ And many more.... 👉🏻👈🏻🥺
 <br>
 <div align="center">
 <a href="https://github.com/braindotai/Facial-Landmarks-Detection-Pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Facial-Landmarks-Detection-Pytorch&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Facial-Landmarks-Detection-Pytorch&theme=dark" />
 </a>
 <a href="https://github.com/braindotai/Watermark-Removal-Pytorch">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Watermark-Removal-Pytorch&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Watermark-Removal-Pytorch&theme=dark" />
 </a>
 </div>
 <br>
@@ -119,10 +119,10 @@ And many more.... 👉🏻👈🏻🥺
 <div align="center">
 </a>
 <a href="https://github.com/braindotai/Fake-Anime-using-DCGAN-Pytorch">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Fake-Anime-using-DCGAN-Pytorch&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Fake-Anime-using-DCGAN-Pytorch&theme=dark" />
 </a>
 <a href="https://github.com/braindotai/Deep-Learning-Scratch-Arena">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Deep-Learning-Scratch-Arena&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Deep-Learning-Scratch-Arena&theme=dark" />
 </a>
 </div>
 <br>
@@ -130,12 +130,12 @@ And many more.... 👉🏻👈🏻🥺
 <div align="center">
 </a>
 <a href="https://github.com/braindotai/Dr-Deep">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Dr-Deep&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Dr-Deep&theme=dark" />
 </a>
 <a href="https://github.com/braindotai/Machine-Learning-Hackathon">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Machine-Learning-Hackathon&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Machine-Learning-Hackathon&theme=dark" />
 </a>
 </div>
 
-<img align="center" src="./images/wave.svg/" />
+<img src="./images/wave.svg/" />
 
