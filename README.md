@@ -139,8 +139,8 @@
 </div>
 
 <div align="center">
-<h2>You made it to the end!!!</h2>
 <img height="200" src="./images/rick.png" />
+<h2>You made it to the end!!!</h2>
 </div>
 
 
