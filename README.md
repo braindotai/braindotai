@@ -1,3 +1,4 @@
+
 ![Welcome to BrainBus](https://brain-bust.web.app/BrainBustArt2.6cd9335e97ff6a2fb39e.webp)
 
 <h1 align="center">Yo, welcome to the 🧠 BrainBust universe. 
@@ -81,7 +82,7 @@
 
 
 ## 📊 # Profile Stats
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=braindotai&label=Profile Views&color=lightgrey&style=flat" alt="iampawan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=braindotai&label=Profile Views&color=080808&style=flat" alt="iampawan" /> </p>
 
 <div align="center">
 <a href="https://github.com/braindotai">
