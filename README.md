@@ -4,7 +4,7 @@
 </h1>
 <br>
 <p align="center">
-<h3 align="center">I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that passes between me running that code and seeing that loss converge 📉. </h3>
+<h3>I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that passes between me running that code and seeing that loss converge 📉. </h3>
 </p>
 
 <br>
@@ -38,7 +38,8 @@
 <a href="https://matplotlib.org/"><code><img height="50" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" /></code></a>
 ### 🏭 Backend:
 <a href="https://www.djangoproject.com/"><code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code></a>
-<a href="https://flask.palletsprojects.com/en/1.1.x/"><code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></code></a> 
+<a href="https://flask.palletsprojects.com/en/1.1.x/"><code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></code></a>
+<a href="https://fastapi.tiangolo.com/"><code><img height="50" src="https://www.programmableweb.com/sites/default/files/styles/facebook_scale_width_200/public/FastAPI%20Python%20Framework_0.jpg?itok=8KCFxxCo" /></code></a>
 <a href="http://firebase.com/"><code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code></a>
 ### 🌄 Frontend: 
 <a href="https://reactjs.org/"><code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code></a> 
