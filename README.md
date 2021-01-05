@@ -16,7 +16,7 @@
 |👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.|🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
 |🏆 Won Covid ML Hackathon with 1st rank in my college.|⚡ Full charged laptop.|
 |🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.|🥤 Chilled soda.|
-|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out.|🏡 And home sweet home.|
+|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|🏡 And home sweet home.|
 |📰 Working on my very first research publication.|
 |🔠 Currently mastering NLP.|
 
