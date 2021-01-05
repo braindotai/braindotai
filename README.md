@@ -138,9 +138,10 @@
 </a>
 </div>
 
+<br>
 <div align="center">
 <img height="200" src="./images/rick.png" />
-<h2>You made it to the end!!!</h2>
+<h3>You made it to the end!!!</h3>
 </div>
 
 
