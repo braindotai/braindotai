@@ -1,3 +1,4 @@
+
 ![Welcome to BrainBus](https://brain-bust.web.app/BrainBustArt2.6cd9335e97ff6a2fb39e.webp)
 
 <h1 align="center">Yo, welcome to the 🧠 BrainBust universe. 
@@ -9,23 +10,15 @@
 
 <br>
 
-## 👉🏻👈🏻🥺 # Who am I?
-
-- 💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.
-- 👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.
-- 🏆 Won Covid ML Hackathon with 1st rank in my college.
-- 🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.
-- 📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out.
-- 📰 Working on my very first research publication.
-- 🔠 Currently mastering NLP.
-
-## 💗 # Things I love
-- 🎸 AC/DC in background.
-- 🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
-- ⚡ Full charged laptop.
-- 🥤 Chilled soda.
-- 🏡 And home sweet home.
-
+|👉🏻👈🏻🥺 Who am I?|💗 Things I love|
+|--|--|
+|💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.| 🎸 AC/DC in background.|
+|👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.|🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
+|🏆 Won Covid ML Hackathon with 1st rank in my college.|⚡ Full charged laptop.|
+|🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.|🥤 Chilled soda.|
+|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out.|🏡 And home sweet home.|
+|📰 Working on my very first research publication.|
+|🔠 Currently mastering NLP.|
 
 ## 👨🏻‍🏫 # Technical Skills
 ### 🤖 Machine Learning / Deep Learning:
