@@ -20,24 +20,24 @@
 
 ## 👨🏻‍🏫 # Technical Skills
 ### 🤖 Machine Learning / Deep Learning:
-<a href="http://pytorch.org/"><img height="30" src="https://brain-bust.web.app/assets/pytorch.jpg"></a>
-<a href="https://www.tensorflow.org/"><img height="30" src="https://brain-bust.web.app/assets/tensorflow.jpg"></a>
-<a href="https://keras.io/"><img height="30" src="https://img.stackshare.io/service/5601/keras.png"></a>
-<a href="https://mxnet.apache.org/versions/1.7.0/"><img height="30" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/mxnet/img/mxnet-stack-220x234.png"></a>
-<a href="https://opencv.org/"><img height="30" src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png"></a>
-<a href="https://scikit-learn.org/stable/"><img height="30" src="https://p7.hiclipart.com/preview/309/384/987/scikit-learn-python-computer-icons-scikit-image-machine-learning-learning.jpg"></a>
-<a href="https://matplotlib.org/"><img height="30" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png"></a>
+<a href="http://pytorch.org/"><code><img height="30" src="https://brain-bust.web.app/assets/pytorch.jpg" /></code></a>
+<a href="https://www.tensorflow.org/"><code><img height="30" src="https://brain-bust.web.app/assets/tensorflow.jpg" /></code></a>
+<a href="https://keras.io/"><code><img height="30" src="https://img.stackshare.io/service/5601/keras.png" /></code></a>
+<a href="https://mxnet.apache.org/versions/1.7.0/"><code><img height="30" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/mxnet/img/mxnet-stack-220x234.png" /></code></a>
+<a href="https://opencv.org/"><code><img height="30" src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" /></code></a>
+<a href="https://scikit-learn.org/stable/"><code><img height="30" src="https://p7.hiclipart.com/preview/309/384/987/scikit-learn-python-computer-icons-scikit-image-machine-learning-learning.jpg" /></code></a>
+<a href="https://matplotlib.org/"><code><img height="30" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" /></code></a>
 ### 🏭 Backend:
-<a href="https://www.djangoproject.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></a>
-<a href="https://flask.palletsprojects.com/en/1.1.x/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></a> 
-<a href="http://firebase.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>
+<a href="https://www.djangoproject.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code></a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></code></a> 
+<a href="http://firebase.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code></a>
 ### 🌄 Frontend: 
-<a href="https://reactjs.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a> 
-<a href="http://vuejs.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a> 
-<a href="http://angular.io/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a> 
-<a href="https://www.typescriptlang.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-<a href="https://sass-lang.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a>
+<a href="https://reactjs.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code></a> 
+<a href="http://vuejs.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></code></a> 
+<a href="http://angular.io/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code></a> 
+<a href="https://www.typescriptlang.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code></a>
+<a href="https://sass-lang.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code></a>
 
 ##  📝 # Written Articles
 - 📈 [Averaging Weights Leads to Wider Optima and Better Generalization](https://brainbust.medium.com/averaging-weights-leads-to-wider-optima-and-better-generalization-8e79d0f3fbd2)
