@@ -4,7 +4,7 @@
 <h1 align="center">Yo, welcome to the 🧠 BrainBust universe. 
 </h1>
 <p align="center">
-<h3>I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that goes through me running that code and seeing that loss converge 📉. </h3>
+<h3>I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that goes through me running that code and seeing the loss converge 📉. </h3>
 </p>
 
 <br>
