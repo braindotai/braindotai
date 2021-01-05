@@ -1,5 +1,3 @@
-
-
 ![Welcome to BrainBus](https://brain-bust.web.app/BrainBustArt2.6cd9335e97ff6a2fb39e.webp)
 
 <h1 align="center">Yo, welcome to the 🧠 BrainBust universe. 
@@ -11,12 +9,15 @@
 
 <br>
 
+## 🥺👉🏻👈🏻 # Who am I?
+
 - 💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.
 - 👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.
 - 🏆 Won Covid ML Hackathon with 1st rank in my college.
-- 🌐 You can check out my [website](https://brain-bust.web.app/home).
-- 📺 And don't hesitate to bless the subscribe button [here](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw).
-- 📰 Currently working on my very first research publication.
+- 🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.
+- 📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out.
+- 📰 Working on my very first research publication.
+- 🔠 Currently mastering NLP.
 
 ## 👨🏻‍🏫 # Technical Skills
 ### 🤖 Machine Learning / Deep Learning:
@@ -39,7 +40,7 @@
 <a href="https://www.typescriptlang.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code></a>
 <a href="https://sass-lang.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code></a>
 
-##  📝 # Written Articles
+## 📝 # Written Articles
 - 📈 [Averaging Weights Leads to Wider Optima and Better Generalization](https://brainbust.medium.com/averaging-weights-leads-to-wider-optima-and-better-generalization-8e79d0f3fbd2)
 - 🌊 [Watermark Removal Using Deep Image Priors](https://brainbust.medium.com/watermark-removal-using-deep-image-priors-d37f87a9ca1)
 - 👦🏻 [Facial Landmarks Detection Using Xception Net](https://medium.com/swlh/facial-landmarks-detection-using-xception-net-908b8b80f758)
@@ -93,7 +94,7 @@
 </tr>
 </table>
 
-<h3 align="center">And many more.... 👉🏻👈🏻🥺</h3>
+<h3 align="center">And many more... 🥱</h3>
 
 
 ## 📊 # Profile Stats
@@ -103,7 +104,7 @@
 <a href="https://github.com/braindotai">
  <img src="https://github-readme-stats.vercel.app/api?username=braindotai&show_icons=true&count_private=true&theme=dark&line_height=35" alt="Rishik's GitHub stats"/>
 </a>
-<div>
+</div>
 
 <br>
 <br>
@@ -138,10 +139,18 @@
 </a>
 </div>
 
+## 💗 # Things I love
+- 🎸 AC/DC in background.
+- 🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
+- ⚡ Full charged laptop.
+- 🥤 Chilled soda.
+- 🏡 And home sweet home.
+
 <br>
+
 <div align="center">
 <img height="200" src="./images/rick.png" />
-<h3>You made it to the end!!!</h3>
+<h3>Congrats, you made it to the end!!!</h3>
 </div>
 
 
