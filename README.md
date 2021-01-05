@@ -10,15 +10,15 @@
 
 <br>
 
-|👉🏻👈🏻🥺 Who am I?|💗 Things I love|
+|<h2>👉🏻👈🏻🥺 Who am I?</h2>|<h2>💗 Things I love</h2>|
 |--|--|
-|💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.| 🎸 AC/DC in background.|
-|👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.|🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
-|🏆 Won Covid ML Hackathon with 1st rank in my college.|⚡ Full charged laptop.|
-|🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.|🥤 Chilled soda.|
-|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out.|🏡 And home sweet home.|
-|📰 Working on my very first research publication.|
-|🔠 Currently mastering NLP.|
+|<h4>💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.</h4>| <h4>🎸 AC/DC in background.</h4>|
+|<h4>👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.</h4>|<h4>🔟 Getting 10 Nvidia Titan Xp 90% sucked up.</h4>
+|<h4>🏆 Won Covid ML Hackathon with 1st rank in my college.</h4>|<h4>⚡ Full charged laptop.</h4>|
+|<h4>🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.</h4>|<h4>🥤 Chilled soda.</h4>|
+|<h4>📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out.|🏡 And home sweet home.</h4>|
+|<h4>📰 Working on my very first research publication.</h4>|
+|<h4>🔠 Currently mastering NLP.</h4>|
 
 ## 👨🏻‍🏫 # Technical Skills
 ### 🤖 Machine Learning / Deep Learning:
