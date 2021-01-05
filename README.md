@@ -15,7 +15,7 @@
 |🏆 Won Covid ML Hackathon with 1st rank in my college.|⚡ Fully charged laptop.|
 |🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.|🥤 Chilled soda.|
 |📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|🎹 Playing Piano.|
-|📰 Working on my very first research publication.| 😗 Whistling favourite song.|
+|📰 Working on my very first research publication.| 😗 Whistling favourite songs.|
 |🔠 Currently mastering NLP.|🏡 And home sweet home.|
 
 ## 👨🏻‍🏫 # Technical Skills
