@@ -29,8 +29,8 @@
 
 ## 👨🏻‍🏫 # Technical Skills
 ### 🤖 Machine Learning / Deep Learning:
-<a href="http://pytorch.org/"><code><img height="50" src="https://brain-bust.web.app/assets/pytorch.jpg" /></code></a>
-<a href="https://www.tensorflow.org/"><code><img height="50" src="https://brain-bust.web.app/assets/tensorflow.jpg" /></code></a>
+<a href="http://pytorch.org/"><code><img height="50" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png" /></code></a>
+<a href="https://www.tensorflow.org/"><code><img height="50" src="https://3.bp.blogspot.com/-d-nV7xJRmpw/Xo328dcAx3I/AAAAAAAAC7Q/qlqJOle6XIosJ3CGIDJ04F3Voh1iXDg0gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" /></code></a>
 <a href="https://keras.io/"><code><img height="50" src="https://img.stackshare.io/service/5601/keras.png" /></code></a>
 <a href="https://mxnet.apache.org/versions/1.7.0/"><code><img height="50" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/mxnet/img/mxnet-stack-220x234.png" /></code></a>
 <a href="https://opencv.org/"><code><img height="50" src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" /></code></a>
