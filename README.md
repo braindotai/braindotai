@@ -23,6 +23,7 @@
 <a href="http://pytorch.org/"><img height="30" src="https://brain-bust.web.app/assets/pytorch.jpg"></a>
 <a href="https://www.tensorflow.org/"><img height="30" src="https://brain-bust.web.app/assets/tensorflow.jpg"></a>
 <a href="https://keras.io/"><img height="30" src="https://img.stackshare.io/service/5601/keras.png"></a>
+<a href="https://mxnet.apache.org/versions/1.7.0/"><img height="30" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/mxnet/img/mxnet-stack-220x234.png"></a>
 <a href="https://opencv.org/"><img height="30" src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png"></a>
 <a href="https://scikit-learn.org/stable/"><img height="30" src="https://p7.hiclipart.com/preview/309/384/987/scikit-learn-python-computer-icons-scikit-image-machine-learning-learning.jpg"></a>
 <a href="https://matplotlib.org/"><img height="30" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png"></a>
@@ -136,6 +137,13 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Machine-Learning-Hackathon&theme=dark" />
 </a>
 </div>
+
+<div align="center">
+<h2>You made it to the end!!!</h2>
+<img src="./images/rick.png" />
+</div>
+
+
 
 <img src="./images/wave.svg/" />
 
