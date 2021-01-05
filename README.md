@@ -125,7 +125,6 @@
 </a>
 </div>
 <br>
-<br>
 <div align="center">
 </a>
 <a href="https://github.com/braindotai/Fake-Anime-using-DCGAN-Pytorch">
@@ -135,7 +134,6 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Deep-Learning-Scratch-Arena&theme=dark" />
 </a>
 </div>
-<br>
 <br>
 <div align="center">
 </a>
