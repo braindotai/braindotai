@@ -5,7 +5,7 @@
 </h1>
 <br>
 <p align="center">
-<h3>I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that passes between me running that code and seeing that loss converge 📉. </h3>
+<h3>I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that goes through me running that code and seeing that loss converge 📉. </h3>
 </p>
 
 <br>
