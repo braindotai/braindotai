@@ -9,7 +9,7 @@
 
 <br>
 
-## 🥺👉🏻👈🏻 # Who am I?
+## 👉🏻👈🏻🥺 # Who am I?
 
 - 💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.
 - 👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.
@@ -18,6 +18,14 @@
 - 📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out.
 - 📰 Working on my very first research publication.
 - 🔠 Currently mastering NLP.
+
+## 💗 # Things I love
+- 🎸 AC/DC in background.
+- 🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
+- ⚡ Full charged laptop.
+- 🥤 Chilled soda.
+- 🏡 And home sweet home.
+
 
 ## 👨🏻‍🏫 # Technical Skills
 ### 🤖 Machine Learning / Deep Learning:
@@ -138,13 +146,6 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Machine-Learning-Hackathon&theme=dark" />
 </a>
 </div>
-
-## 💗 # Things I love
-- 🎸 AC/DC in background.
-- 🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
-- ⚡ Full charged laptop.
-- 🥤 Chilled soda.
-- 🏡 And home sweet home.
 
 <br>
 
