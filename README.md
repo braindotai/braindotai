@@ -140,7 +140,7 @@
 
 <div align="center">
 <h2>You made it to the end!!!</h2>
-<img src="./images/rick.png" />
+<img height="200" src="./images/rick.png" />
 </div>
 
 
