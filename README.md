@@ -1,4 +1,3 @@
-
 ![Welcome to BrainBus](https://brain-bust.web.app/BrainBustArt2.6cd9335e97ff6a2fb39e.webp)
 
 <h1 align="center">Yo, welcome to the 🧠 BrainBust universe. 
@@ -13,11 +12,11 @@
 |--|--|
 |💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.| 🎸 AC/DC in background.|
 |👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.|🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
-|🏆 Won Covid ML Hackathon with 1st rank in my college.|⚡ Full charged laptop.|
+|🏆 Won Covid ML Hackathon with 1st rank in my college.|⚡ Fully charged laptop.|
 |🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.|🥤 Chilled soda.|
-|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|🏡 And home sweet home.|
-|📰 Working on my very first research publication.|
-|🔠 Currently mastering NLP.|
+|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|🎹 Playing Piano.|
+|📰 Working on my very first research publication.| 😗 Whistling favourite song.|
+|🔠 Currently mastering NLP.|🏡 And home sweet home.|
 
 ## 👨🏻‍🏫 # Technical Skills
 |<h3>🤖 Machine Learning / Deep Learning</h3>|<h3>🏭 Backend</h3>|<h3>🌄 Frontend</h3>|
