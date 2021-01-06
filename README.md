@@ -11,7 +11,7 @@
 
 |<h3>👉🏻👈🏻🥺 Who am I?</h3>|<h3>💗 Things I love</h3>|
 |--|--|
-|💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.| 🎸 AC/DC in background.|
+|💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.| 🎸 Metal in background.|
 |👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 4 products to far.|🔟 Getting 10 Nvidia Titan Xp 90% sucked up.
 |🏆 Won Covid ML Hackathon with 1st rank in my college.|⚡ Fully charged laptop.|
 |🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.|🥤 Chilled soda.|
