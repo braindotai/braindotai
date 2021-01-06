@@ -102,15 +102,6 @@
 </div>
 <div align="center">
 </a>
-<a href="https://github.com/braindotai/Fake-Anime-using-DCGAN-Pytorch">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Fake-Anime-using-DCGAN-Pytorch&theme=dark" />
-</a>
-<a href="https://github.com/braindotai/Deep-Learning-Scratch-Arena">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Deep-Learning-Scratch-Arena&theme=dark" />
-</a>
-</div>
-<div align="center">
-</a>
 <a href="https://github.com/braindotai/Dr-Deep">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Dr-Deep&theme=dark" />
 </a>
@@ -118,14 +109,6 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Machine-Learning-Hackathon&theme=dark" />
 </a>
 </div>
-
-<br>
-
-<div align="center">
-<img height="200" src="./images/rick.png" />
-<h3>Congrats, you made it to the end!!!</h3>
-</div>
-
 
 
 <img src="./images/wave.svg/" />
