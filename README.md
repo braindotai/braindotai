@@ -1,5 +1,4 @@
-
-![Welcome to BrainBus](https://brain-bust.web.app/BrainBustArt2.6cd9335e97ff6a2fb39e.webp)
+<img alt="Welcome to BrainBust" src="./images/wave-top.svg/" />
 
 <h1 align="center">Yo, welcome to the 🧠 BrainBust universe. 
 </h1>
@@ -110,6 +109,5 @@
 </a>
 </div>
 
-
-<img src="./images/wave.svg/" />
+<img alt="Congrats, you made it to the end!!!" src="./images/wave-bottom.svg/" />
 
