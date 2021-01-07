@@ -85,7 +85,7 @@
 
 <div align="center">
 <a href="https://github.com/braindotai">
- <img src="https://github-readme-stats.vercel.app/api?username=braindotai&show_icons=true&count_private=true&theme=dark&line_height=35" alt="Rishik's GitHub stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=braindotai&show_icons=true&count_private=true&theme=dark&line_height=35&hide_border=true" alt="Rishik's GitHub stats"/>
 </a>
 </div>
 
@@ -93,21 +93,28 @@
 <br>
 <div align="center">
 <a href="https://github.com/braindotai/Facial-Landmarks-Detection-Pytorch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Facial-Landmarks-Detection-Pytorch&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Facial-Landmarks-Detection-Pytorch&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/braindotai/Watermark-Removal-Pytorch">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Watermark-Removal-Pytorch&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Watermark-Removal-Pytorch&theme=dark&hide_border=true" />
 </a>
 </div>
 <div align="center">
 </a>
 <a href="https://github.com/braindotai/Dr-Deep">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Dr-Deep&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Dr-Deep&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/braindotai/Machine-Learning-Hackathon">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Machine-Learning-Hackathon&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=braindotai&repo=Machine-Learning-Hackathon&theme=dark&hide_border=true" />
 </a>
 </div>
+
+<!-- <br>
+
+<div align="center">
+<img height="200" src="./images/rick.png" />
+<h3>Congrats, you made it to the end!!!</h3>
+</div> -->
 
 <img alt="Congrats, you made it to the end!!!" src="./images/wave-bottom.svg/" />
 
