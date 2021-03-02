@@ -58,7 +58,7 @@
 <img height="320" src="https://raw.githubusercontent.com/braindotai/Watermark-Removal-using-Deep-Image-Priors-with-Pytorch/master/final_outputs.webp"/>
 </td>
 <td>
-<img height="320" src="https://github.com/braindotai/SkylarkLabs-Violence-Detection/blob/master/output.gif"/>
+<img height="320" src="./images/with-heatmap.gif"/>
 </td>
 </tr>
 </table>
