@@ -110,7 +110,7 @@
 
 <div align="center">
 <img height="200" src="./images/rick.png" />
-<h3>Congrats, you made it to the end!!!</h3>
+<h3>Wubba lubba dub dub, you made it to the end!!!</h3>
 </div>
 
 <img alt="Congrats, you made it to the end!!!" src="./images/wave-bottom.svg/" />
