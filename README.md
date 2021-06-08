@@ -65,20 +65,17 @@
 
 <table>
 <tr>
-<th>Lie Detection</th><th>Drowning Detection</th>
+<th>Lie Detection</th><th>Night 2 Day</th>
 </tr>
 <tr>
 <td>
 <img height="250" src="https://github.com/braindotai/SkylarkLabs-Lie-Detection/raw/master/output.gif"/>
 </td>
 <td>
-<img height="250" src="https://github.com/braindotai/SkylarkLabs-Drowning-Detection/raw/master/output.gif"/>
+<img height="250" src="./images/n2d.png"/>
 </td>
 </tr>
 </table>
-
-<h3 align="center">And many more... 🥱</h3>
-
 
 ## 📊 # Profile Stats
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=braindotai&label=Profile Views&color=080808&style=flat" alt="iampawan" /> </p>
@@ -109,12 +106,12 @@
 </a>
 </div>
 
-<!-- <br>
+<br>
 
 <div align="center">
 <img height="200" src="./images/rick.png" />
 <h3>Congrats, you made it to the end!!!</h3>
-</div> -->
+</div>
 
 <img alt="Congrats, you made it to the end!!!" src="./images/wave-bottom.svg/" />
 
