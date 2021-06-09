@@ -55,10 +55,10 @@
 </tr>
 <tr>
 <td>
-<img height="225" src="https://raw.githubusercontent.com/braindotai/Watermark-Removal-using-Deep-Image-Priors-with-Pytorch/master/final_outputs.webp"/>
+<img height="250" src="https://raw.githubusercontent.com/braindotai/Watermark-Removal-using-Deep-Image-Priors-with-Pytorch/master/final_outputs.webp"/>
 </td>
 <td>
-<img height="225" src="./images/with-heatmap.gif"/>
+<img height="250" src="./images/with-heatmap.gif"/>
 </td>
 </tr>
 </table>
