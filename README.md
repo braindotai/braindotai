@@ -35,7 +35,7 @@
 ## 🔨 # Deployed Projects
 
 
-<table>
+<table align="center">
  <tr>
  <th>Facial Landmarks Detection</th><th>Fake Anime Generation</th>
  </tr>
@@ -55,15 +55,15 @@
 </tr>
 <tr>
 <td>
-<img height="225" src="https://raw.githubusercontent.com/braindotai/Watermark-Removal-using-Deep-Image-Priors-with-Pytorch/master/final_outputs.webp"/>
+<img height="250" src="https://raw.githubusercontent.com/braindotai/Watermark-Removal-using-Deep-Image-Priors-with-Pytorch/master/final_outputs.webp"/>
 </td>
 <td>
-<img height="225" src="./images/with-heatmap.gif"/>
+<img height="250" src="./images/with-heatmap.gif"/>
 </td>
 </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
 <th>Lie Detection</th><th>Night 2 Day</th>
 </tr>
